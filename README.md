@@ -1,1 +1,1 @@
-{"appid":"https://www.baidu.com","isShow":"0"}
+{"appid":"https://www.baidu.com","GameID":"0"}
